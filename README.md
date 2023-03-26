@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @nadi555
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h4><b>G I T H U B &nbsp; S T A T S</b></h4>
+  <hr>
+  </div>
+</div>
 
-<!---
-nadi555/nadi555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?Dexanode=iqblmynwr88&show_icons=true&theme=nightowl%22/%3E
+<br />
+<br />
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=iqblmynwr88&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D%22/%3E
+<br />
+<br />
+   <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqblmynwr88&layout=compact&theme=nightowl%22/%3E
+  </div>
+</div>
